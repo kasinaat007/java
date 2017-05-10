@@ -1,3 +1,4 @@
+package mini_project;
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.io.FileReader;
