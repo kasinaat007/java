@@ -1,4 +1,5 @@
-public class SolutionComplex {
+package tutorial;
+	public class Solution{
     public static void main(String[] args) {
         Complex complex;
         complex = new Complex(1,2);

@@ -1,4 +1,8 @@
+<<<<<<< HEAD:CorelationMatrix.java
 package asdf;
+=======
+package tutorial;
+>>>>>>> 3e6afed6f580acdd65e9882d4b4f0471f4aee594:src/CorelationMatrix.java
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.FileNotFoundException;

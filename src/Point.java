@@ -1,3 +1,4 @@
+package tutorial;
 public class Point {
     private int xAxis;
     private int yAxis;
