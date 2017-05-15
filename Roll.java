@@ -1,12 +1,8 @@
+package asdf;
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.io.IOException;
-public class Roll
-{
-	public static void main(String arga[])throws IOException
-	{
-		BufferedReader read=new BufferedReader(new InputStreamReader(System.in));
-		String rollno=read.readLine();
+
 		String dept[]={"CSE","IT","MECH","CIVIL"};
 		if(rollno.length()==6)
 		{
